@@ -6,7 +6,7 @@
 [Link](https://lav30.github.io/photography/) to my photography portfolio created using [GitHub Pages](https://pages.github.com)
 
 
-![Alt text](Images/04873442-6880-4380-BBF5-DFE1290CFBAC_1_201_a.jpeg)
+![Alt text](Images/CCFA6FD3-C469-41D9-864A-3B2A4123AC4E.jpeg)
 
 
 © Lavanya Ramesh Naik
