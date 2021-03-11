@@ -1,4 +1,7 @@
-## Photography Portfolio
+<h1 align="center">Welcome to My Photography Portfolio 👋</h1>
+<p>
+</p>
+
 
 [Link](https://lav30.github.io/photography/) to my photography portfolio created using [GitHub Pages](https://pages.github.com)
 
