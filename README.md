@@ -3,7 +3,7 @@
 </p>
 
 
-[Link](https://lav30.github.io/photography/) to my photography portfolio created using [GitHub Pages](https://pages.github.com)
+[Link](https://lav30.github.io/photography/) to my photography portfolio hosted on [GitHub Pages](https://pages.github.com)
 
 
 ![Alt text](Images/CCFA6FD3-C469-41D9-864A-3B2A4123AC4E.jpeg)
