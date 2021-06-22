@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My Photography Portfolio 👋</h1>
+<h1 align="center">Welcome to My Photography Portfolio 👋 📷</h1>
 <p>
 </p>
 
